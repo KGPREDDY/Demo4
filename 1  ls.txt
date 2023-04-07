@@ -1,0 +1,9 @@
+ 1  ls
+    2  cd Downloads/
+    3  ls
+    4  sudo ssh -i "mumbai-keypairs-1.pem" ubuntu@ec2-13-232-169-154.ap-south-1.compute.amazonaws.com
+    5  ssh -i "mumbai-keypairs-1.pem" ubuntu@ec2-13-232-169-154.ap-south-1.compute.amazonaws.com
+    6  git --version
+    7  sudo su-
+    8  git clone https://github.com/Kodavatiganti/Demo1.git
+    9  history
